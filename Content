@@ -1,0 +1,59 @@
+
+🟡1st part including: 
+ 
+1) Print function 
+2) Strings 
+3) Format function 
+4) Data types (int, float, ...) 
+5) Math & logical operators 
+7) Lists 
+8) An introduction to numpy 
+9) Tuples 
+10) Mutable or immutable 
+11) Dictionary 
+12) Boolians 
+13) An introduction to functions 
+  
+ 
+🟡2st part including: 
+ 
+1) Functions 
+2) Operators on functions 
+3) Parser and range function 
+4) Condition statements(if, else, elif) 
+5) And - or in conditions 
+6) None 
+7) Nested if statements 
+8) Loop statements(for, while) 
+9) Break and continute in loops 
+10) Nested loops 
+11) Infinite loops 
+  
+ 
+🟡3rd part including: 
+ 
+1) Modules 
+2) Solve ordinary differential equations 
+3) Numpy and arrays 
+4) Arrange, zeros, and ones functions 
+5) Linspace, eye, and random functions 
+6) Reshape, argmax and argmin functions 
+7) Condition on arrays 
+8) Index in arrays 
+9) read & write CSV files 
+ 
+ 
+🟡4th part including: 
+ 
+1) Pandas and DataFrames 
+2) Condition on DataFrames 
+3) Math functions on DataFrames 
+4) Groupby, nuniqe, and value_counts functions 
+5) Correlation in DataFrames 
+6) Matplotlib and figures 
+7) Nested figures 
+8) Zoom in figures 
+9) Multiple figures 
+10) Colors, line styles, and backgrounds in matplotlib 
+11) Write formulas in matplotlib 
+12) More examples in Python
